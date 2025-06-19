@@ -1,10 +1,3 @@
-## 🙋‍♀️ Thông Tin Sinh Viên
-
-* **Họ và tên:** Phạm Thị Phương Anh.
-* **Mã Sinh Viên:** 23010706.
-* **Lớp:** Thiết Kế Web nâng cao TH3.
-
----
 
 # 📚 Hệ Thống Quản Lý Thư Viện
 
