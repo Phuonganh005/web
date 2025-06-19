@@ -1,7 +1,7 @@
-##Thông Tin Sinh Viên
-**Họ và tên:** Phạm Thị Phương Anh.
-**Mã Sinh Viên:** 23010706.
-**Lớp:** Thiết Kế Web nâng cao TH3.
+## Thông Tin Sinh Viên
+** Họ và tên: ** Phạm Thị Phương Anh.
+** Mã Sinh Viên: ** 23010706.
+** Lớp: ** Thiết Kế Web nâng cao TH3.
 
 
 ## Project: 📚 Hệ Thống Quản Lý Thư Viện
