@@ -72,8 +72,6 @@ Dự án tập trung vào quản lý 03 đối tượng cốt lõi:
 
 ## 💻Một Số Code Minh Họa
 
-# 📦Model
-
 * **Book Model**
 <img src="img/Book.png">
 
@@ -82,3 +80,8 @@ Dự án tập trung vào quản lý 03 đối tượng cốt lõi:
 
 * **Students Model**
 <img src="img/Student.png">
+
+* **BookController**
+<img src="img/BC1.png">
+<img src="img/BC2.png">
+<img src="img/BC3.png">
