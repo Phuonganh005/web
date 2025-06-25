@@ -18,7 +18,7 @@ Dự án này là một hệ thống quản lý thư viện được xây dựng
 Dự án tập trung vào quản lý 03 đối tượng cốt lõi:
 
 1.  **`Book` (Sách):** Đại diện cho một đầu sách trong thư viện.
-    * Các thuộc tính ví dụ: `title`, `author`, `genre`, `quantity`.
+    * Các thuộc tính ví dụ: `bookName`, `bookCode`, `bookAuthor`.
 2.  **`User` (Độc Giả):** Đại diện cho một thành viên/độc giả của thư viện.
     * Các thuộc tính ví dụ: `name`, `id`, `email`.
 3.  **`BorrowRecord` (Phiếu Mượn/Trả):** Ghi lại thông tin về việc một độc giả mượn một cuốn sách. Đây là mối quan hệ nhiều-nhiều giữa `Book` và `User`.
@@ -35,7 +35,7 @@ Dự án tập trung vào quản lý 03 đối tượng cốt lõi:
 
 * **Quản lý Đối Tượng:**
     * **User:** Người quản trị hệ thống, có quyền truy cập và quản lý các chức năng.
-    * **Book:** Quản lý thông tin chi tiết về sách bao gồm: `title`, `author`, `genre`, `quantity` (số lượng có trong kho), `isbn`.
+    * **Book:** Quản lý thông tin chi tiết về sách bao gồm: `bookName`, `bookAuthor`, `bookCode`.
     * **Student:** Quản lý thông tin cá nhân của sinh viên.
     * **BorrowRecord:** Lưu trữ thông tin phiếu mượn sách, liên kết giữa `Student` và `Book`.
 
@@ -68,3 +68,11 @@ Dự án tập trung vào quản lý 03 đối tượng cốt lõi:
 * **Database:** MySQL (triển khai trên Cloud thông qua Aiven)
 * **Frontend:** Blade Templates (Laravel), HTML, CSS, JavaScript
 * **Công cụ khác:** Composer, npm
+---
+
+## 💻Một Số Code Minh Họa
+
+# 📦Model
+
+* **User Model**
+!img/Book.png
