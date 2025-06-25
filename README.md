@@ -68,20 +68,21 @@ Dự án tập trung vào quản lý 03 đối tượng cốt lõi:
 * **Database:** MySQL (triển khai trên Cloud thông qua Aiven)
 * **Frontend:** Blade Templates (Laravel), HTML, CSS, JavaScript
 * **Công cụ khác:** Composer, npm
+  
 ---
 
 ## 💻Một Số Code Minh Họa
 
-* **Book Model**
+## Book Model
 <img src="img/Book.png">
 
-* **BorrowRecord Model**
+## BorrowRecord Model
 <img src="img/BorrowRecord.png">
 
-* **Students Model**
+## Students Model
 <img src="img/Student.png">
 
-* **BookController**
+## BookController
 <img src="img/BC1.png">
 <img src="img/BC2.png">
 <img src="img/BC3.png">
