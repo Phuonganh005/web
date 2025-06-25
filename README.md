@@ -74,5 +74,11 @@ Dự án tập trung vào quản lý 03 đối tượng cốt lõi:
 
 # 📦Model
 
-* **User Model**
+* **Book Model**
 <img src="img/Book.png">
+
+* **BorrowRecord Model**
+<img src="img/BorrowRecord.png">
+
+* **Students Model**
+<img src="img/Student.png">
